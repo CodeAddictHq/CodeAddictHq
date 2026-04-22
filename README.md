@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HI HI (σ≧▽≦)σ
 Hello, I am an SSC candidate. I am learning programming with specialization in backend web development. Now, I am building things using Python and Django frameworks, while learning Django REST Framework and databases.<br><br>I know basics about front-end development languages such as HTML, CSS, and JavaScript. My future objective is to master React to gain independency for full stack development.<br><br>My future vision involves exploring AI technology and integrating it in web development skills to solve real-life challenges and build amazing mind blowing projects.<br><br>I wanna do CSE after HSC to make me professional in tech feild
 
 
