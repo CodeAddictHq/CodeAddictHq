@@ -12,10 +12,9 @@ Hello, I am an SSC candidate. I am learning programming with specialization in b
 ![](https://streak-stats.demolab.com/?user=CodeAddictHq&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeAddictHq&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+#Github Trophies 🏆 
 ![](https://github-profile-trophy.vercel.app/?username=CodeAddictHq&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodeAddictHq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
